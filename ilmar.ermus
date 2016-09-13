@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <meta charset="utf-8"/>
+  </head>
+  <body>
+    <p>Tere mina olen Ilmar Ermus</p>
+    <!-- Need kaks on cloudfront serverist -->
+    <img src="https://d1qb2nb5cznatu.cloudfront.net/users/18344-large?1405448591"/>
+    <img src="//d1qb2nb5cznatu.cloudfront.net/users/18344-large?1405448591"/>
+ 
+    <!-- Need neli on enose serverist -->
+    <img src="http://enos.itcollege.ee/~lvosandi/pics/lauri.jpeg"/>
+    <img src="//enos.itcollege.ee/~lvosandi/pics/lauri.jpeg"/>
+    <img src="/~lvosandi/pics/lauri.jpeg"/>
+    <img src="pics/lauri.jpeg"/>
+ 
+    <!-- Variandid mis kindlasti ei tööta -->
+    <img src="/home/lvosandi/public_html/pics/lauri.jpeg"/>
+    <img src="H:\public_html\pics\lauri.jpeg"/>
+    <img src="pics\lauri.jpeg"/>
+  </body>
+</html>
