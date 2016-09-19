@@ -1,0 +1,31 @@
+# Tekstiredaktorite mudru
+*~
+*.swp
+*.bak
+*.tmp
+ 
+# Java projekti jaoks:
+build/
+*.class
+ 
+# Python projekti jaoks:
+*.pyc
+ 
+# C/C++ programmi jaoks:
+*.so
+*.o# Tekstiredaktorite mudru
+*~
+*.swp
+*.bak
+*.tmp
+ 
+# Java projekti jaoks:
+build/
+*.class
+ 
+# Python projekti jaoks:
+*.pyc
+ 
+# C/C++ programmi jaoks:
+*.so
+*.o
